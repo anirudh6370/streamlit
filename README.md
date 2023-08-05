@@ -1,2 +1,2 @@
-Here is the first streamlit project
+its just a practice
 
